@@ -8,3 +8,5 @@ A simple markdown editor with a focus on ease of use and speed.
 - link documents to each other
 - autosave
 - internal links w/ backlinks
+
+![screenshot](screenshot.png)
