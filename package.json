@@ -1,0 +1,15 @@
+{
+  "name": "markdown_previewer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:critesjosh/markdown_previewer.git",
+  "author": "Josh Crites <jc@joshcrites.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start:prod": "PORT=80 node server.js",
+    "dev": "PORT=3000 node server.js"
+  }
+}
