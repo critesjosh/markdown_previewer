@@ -9,7 +9,7 @@
     "express": "^4.18.2"
   },
   "scripts": {
-    "start:prod": "PORT=80 node server.js",
+    "build": "echo 'No build step needed'",
     "dev": "PORT=3000 node server.js"
   }
 }
