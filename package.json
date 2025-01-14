@@ -5,7 +5,9 @@
   "repository": "git@github.com:critesjosh/markdown_previewer.git",
   "author": "Josh Crites <jc@joshcrites.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "sass": "^1.83.3"
+  },
   "scripts": {
     "build": "echo 'No build step needed'",
     "dev": "PORT=3000 node server.js"
